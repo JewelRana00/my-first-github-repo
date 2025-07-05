@@ -7,6 +7,7 @@
     height: 200px;
     width: 200px;
     background: rgb(2, 10, 80);
+    box-shadow: 5px 5px 10px rgb(255, 0, 0);
 }
 .child {
     /* margin: auto; */
