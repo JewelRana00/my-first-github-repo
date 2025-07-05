@@ -14,15 +14,18 @@ body {
     text-align: center;
     margin-bottom: 50px;
 }
-.testimonial-title h2{
-    font-size: 35px;
+.single-item-blog{
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px rgb(105, 105, 105);
 }
 .testimonial-title h4{
-    color: #919191;
+    color: #919191;  
 }
 .testimonial-title h2{
     text-align: center;
     margin-bottom: 10px;
+    font-size: 35px;
+    text-shadow: 5px 5px 10px rgb(172, 172, 172);
 }
 .blog-item-parent {
     display: grid;
@@ -85,7 +88,7 @@ body {
     text-align: center;
  }
  .single-item-text h3 {
-
+    text-shadow: 5px 5px 10px rgb(172, 172, 172);
     margin: 10px 0;
  }
  .single-item-text p {
