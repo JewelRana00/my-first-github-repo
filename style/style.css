@@ -26,3 +26,23 @@
 .child:hover {
     background: rgb(11, 170, 11);
 }
+.fruits{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.fruits .img-box{
+    overflow: hidden;
+    height: 180px;
+    width: 275px;
+}
+.fruits .img-box img{
+    height: 100%;
+    width: 100%;
+}
+.fruits .img-box img:hover{
+    transform: scale(1.5);
+
+}
