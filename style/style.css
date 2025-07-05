@@ -20,6 +20,7 @@
     width: 60px;
     background: rgb(0, 148, 0);
     box-shadow: 0px 0px 15px rgb(255, 255, 255);
+    border: 1px solid rgb(155, 153, 153);
 }
 .child:hover {
     background: rgb(11, 170, 11);
